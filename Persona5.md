@@ -1,9 +1,13 @@
 # The Rules for the Run
 * No New Game + - First Playthrough on Save
 * Play on Challenge Difficulty
+
 ** Damage received: x1.6 - Damage dealt: x0.8 - Experience: x0.4 - Money: x0.4 - Critical and technical hit damage on both enemies and allies is tripled
+
 * No DLC Bonus Items
+
 ** All DLC Items must be sold and the money must be burned.
+
 * No Use of DLC Personae
 * No SP Adhesives
 * No Spirit Drain Skill
