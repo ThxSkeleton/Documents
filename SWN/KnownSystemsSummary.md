@@ -1,17 +1,17 @@
-# Known Systems Summary for Ikuman Arm Core Systems - Buevette, Hani, Quelzadi, Thorhill, and Heeliff
+# Known Systems Summary for the 5 Ikuman Arm Systems 
 
 This is a setting document that contains public knowledge of the isolated sub-constellation known as the "Ikuman Arm". Your character may know more due to their special knowledge, connections, or cultural position. Ask the GM!
 
 ## System: Buevette
 
 ### Elevator Pitch
-The planet has (basically) Amish people, and rest of the system has Space Prospectors. People from the planet are temporarily permitted by their village elders to go to space and become space miners/prospectors, where they have their own high tech society of rowdy bearded guys. 
+The planet has (basically) Amish people, and rest of the system has Space Prospectors. People from the planet are temporarily permitted ('elected') by their village elders to go to space and become space miners/prospectors, where they have their own high tech society of rowdy bearded guys. 
 
 ### Themes: 
-Theres a big contrast/tension between what is allowed on the planet, and what is allowed in space. 
-The "Election" process isn't very honest
-Space Prospectors
-Everyone has a beard
+* Theres a big contrast/tension between what is allowed on the planet, and what is allowed in space. 
+* The "Election" process is kinda crooked
+* Prospectors, Miners, looking for the next rich space comet to claim
+* Everyone dresses like a lumberjack
 
 ### Description
 
@@ -34,20 +34,20 @@ In general, the Buevettan planet's soceity has remained extremely stable, with t
 ### Planets and Known Points of Interest
 
 #### Natural Features
-Asteroid Near Belt
-Waldo (Gas Giant)
-Fuller (Gas Giant)
-Emerson (Mercury-Type Planet)
-The Frost Cloud
-The Night Cloud
+* Asteroid Near Belt
+* Waldo (Gas Giant)
+* Fuller (Gas Giant)
+* Emerson (Mercury-Type Planet)
+* The Frost Cloud
+* The Night Cloud
 
 #### Stations + Inhabitied Planets
-Buevette - Earth-Type - 300,000 inhabitants
-Fridge - Large Manufactory, Shipyard, and Refinery - 20,000 inhabitants 
-Icebox - Pluto-Type Planet - 1,000 inhabitants
-Zark - Asteroid Refinery - 300 Inhabitants
-Kong - Refueling Station
-Sitka 5 - Refueling Station
+* Buevette - Earth-Type - 300,000 inhabitants
+* Fridge - Large Manufactory, Shipyard, and Refinery - 20,000 inhabitants 
+* Icebox - Pluto-Type Planet - 1,000 inhabitants
+* Zark - Asteroid Refinery - 300 Inhabitants
+* Kong - Refueling Station
+* Sitka 5 - Refueling Station
 
 ## Hani System
 
@@ -55,11 +55,11 @@ Sitka 5 - Refueling Station
 Three desert worlds. This system has mysterious crystal flower aliens that grow from mysterious ruins, are mysteriously psionic, but have never been known to move or communicate. The system has two inhabitted planets, Quelzadi, which has scientists studying the aliens, and Thorhill, an (Iran-like) theocracy worshipping the aliens. They were previously one people, but evil experimentation by the Quelzadi on the helpless aliens caused a schism. The current Quelzadi are "reformed" and disavvow their ancient crimes, but are still hated by the Thorhillians. 
 
 ### Themes
-Reference - Psychiatry - An Industry of Death "Museums?"
-Scientific Experimentation Constrained by Scientific Prohibition
-The Quelzadi are very advanced but have a small population and live on a harsh world
-The Thorhil are primitive but are modernizing quickly but have highest pop in the known sector
-Supposed to empathize with both sides', and both views of the Aliens
+* Reference - Psychiatry - An Industry of Death "Museums?"
+* Scientific Experimentation constrained by legal and religious prohibition
+* The Quelzadi are very advanced but have a small population and live on a harsh world
+* The Thorhil are primitive but are modernizing quickly but have highest pop in the known sector
+* Supposed to empathize with both sides', and both views of the Aliens
 
 ## Quelzadi
 
@@ -71,10 +71,10 @@ Supposed to empathize with both sides', and both views of the Aliens
 Space Sparta. They live on a planet with a nice mediterranean climate, but it has totally devestating radiation storms, and their entire population lives deep underground, in crowded, bunker-like city of Core. Recent breakthroughs in their shielding technology has allowed people to start living normal lives, but their society still marches to the 10-day rythym before the next storm.
 
 ### Themes
-Advanced tech driven by necessity (Shielding, Medicine, Gene-Tech)
-An extremely brutal society that doesn't have to be brutal all of a sudden
-The more powerful you are, the deeper in the city you dwell
-Any Misfits would probably want to get the hell out!
+* Advanced tech driven by necessity (Shielding, Medicine, Gene-Tech)
+* An extremely brutal society that doesn't have to be brutal all of a sudden
+* The more powerful you are, the deeper in the city you dwell
+* Any Misfits would probably want to get the hell out!
 
 
 
