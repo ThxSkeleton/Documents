@@ -21,6 +21,9 @@ Buevete Prime, a temperate planet supporting a traditionalist society with stric
 
 Buevete Outworlders, while nominally part of the same society as terrestrial Buevetans, have their own culture. Many of the strictures of the Buevettan lifestyle are relaxed while in space. Prospectors, miners, manufacturers, and traders ply their trade in the asteroid belts and comet clouds. The center of their society lies at The Fridge, a comet mining station orbitting the frozen pluto-like planet Icebox.
 
+### Leaders + Famous Denizens
+* 
+
 ### History 
 
 #### Pre Scream 
@@ -52,7 +55,7 @@ In general, the Buevettan planet's soceity has remained extremely stable, with t
 ## Hani System
 
 ### Elevator Pitch
-Three desert worlds. This system has mysterious crystal flower aliens that grow from mysterious ruins, are mysteriously psionic, but have never been known to move or communicate. The system has two inhabitted planets, Quelzadi, which has scientists studying the aliens, and Thorhill, an (Iran-like) theocracy worshipping the aliens. They were previously one people, but evil experimentation by the Quelzadi on the helpless aliens caused a schism. The current Quelzadi are "reformed" and disavvow their ancient crimes, but are still hated by the Thorhillians. 
+Three desert worlds. This system has mysterious crystal flower aliens that grow from mysterious ruins, are mysteriously psionic, but have never been known to move or communicate. The system has two inhabitted planets, Quelzadi, brilliant scientists on a scorched wasteland world, and Thorhill, an (Iran-like) theocracy worshipping the aliens. They were previously one people, but (alleged) evil experimentation by the Quelzadi on the helpless aliens caused a schism. The current Quelzadi are "reformed" and disavvow their ancient crimes, but are still hated by the Thorhillians. 
 
 ### Themes
 * Reference - Psychiatry - An Industry of Death "Museums?"
