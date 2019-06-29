@@ -22,7 +22,9 @@ Buevete Prime, a temperate planet supporting a traditionalist society with stric
 Buevete Outworlders, while nominally part of the same society as terrestrial Buevetans, have their own culture. Many of the strictures of the Buevettan lifestyle are relaxed while in space. Prospectors, miners, manufacturers, and traders ply their trade in the asteroid belts and comet clouds. The center of their society lies at The Fridge, a comet mining station orbitting the frozen pluto-like planet Icebox.
 
 ### Leaders + Famous Denizens
-* 
+* Tom Volkner, Media Personality
+* Mary Wood, Lead Scout of the Blue Star Federation
+* Philip Davies, Prominent Traditionalist in Council of Council
 
 ### History 
 
@@ -55,7 +57,7 @@ In general, the Buevettan planet's soceity has remained extremely stable, with t
 ## Hani System
 
 ### Elevator Pitch
-Three desert worlds. This system has mysterious crystal flower aliens that grow from mysterious ruins, are mysteriously psionic, but have never been known to move or communicate. The system has two inhabitted planets, Quelzadi, brilliant scientists on a scorched wasteland world, and Thorhill, an (Iran-like) theocracy worshipping the aliens. They were previously one people, but (alleged) evil experimentation by the Quelzadi on the helpless aliens caused a schism. The current Quelzadi are "reformed" and disavvow their ancient crimes, but are still hated by the Thorhillians. 
+Three desert worlds. This system has mysterious crystal flower aliens that grow from mysterious ruins, are mysteriously psionic, but have never been known to move or communicate. The system has two inhabitted planets, Quelzadi, brilliant scientists in a scorched wasteland, and Thorhill, an (Iran-like) theocracy worshipping the aliens. They were previously one people, but (alleged) evil experimentation by the Quelzadi on the helpless aliens caused a schism. The current Quelzadi are "reformed" and disavvow their ancient crimes, but are still hated by the Thorhillians. 
 
 ### Themes
 * Reference - Psychiatry - An Industry of Death "Museums?"
@@ -64,14 +66,23 @@ Three desert worlds. This system has mysterious crystal flower aliens that grow 
 * The Thorhil are primitive but are modernizing quickly but have highest pop in the known sector
 * Supposed to empathize with both sides', and both views of the Aliens
 
-## Quelzadi
+### Quelzadi
 
-## Thorhill
+### Thorhill
+
+### Leaders + Famous Denizens
+* (Historical)
+* (Historical)
+* (Historical) 
+* Philippia Andreas, Quelzadi Lead Biologist
+* Nestor Spiros, Quelzadi Lead Physicist 
+* Giada Pappas, Hani Adjudicant 
+* Dimitrius Terzius, Supreme Cleric of Thorhill
 
 ## Heeliff System
 
-### Out of Universe Elevator Pitch.
-Space Sparta. They live on a planet with a nice mediterranean climate, but it has totally devestating radiation storms, and their entire population lives deep underground, in crowded, bunker-like city of Core. Recent breakthroughs in their shielding technology has allowed people to start living normal lives, but their society still marches to the 10-day rythym before the next storm.
+### Elevator Pitch
+Space Sparta with less of an emphasis on War. They live on a planet with a nice mediterranean climate, but it has totally devestating radiation storms, and their entire population lives deep underground, in crowded, bunker-like city of Core. Recent breakthroughs in their shielding technology has allowed people to start living normal lives, but their society still marches to the 10-day rythym before the next storm.
 
 ### Themes
 * Advanced tech driven by necessity (Shielding, Medicine, Gene-Tech)
@@ -79,6 +90,9 @@ Space Sparta. They live on a planet with a nice mediterranean climate, but it ha
 * The more powerful you are, the deeper in the city you dwell
 * Any Misfits would probably want to get the hell out!
 
+### Leaders and Major Themes
+* (Historical) 
+* 
 
 
 Past huge layers of both lead shielding and their Aegis techno-shields, their population has strived desperately to improve their lot, and in the past 30 years the erection of a geosynchronous shield space station 
